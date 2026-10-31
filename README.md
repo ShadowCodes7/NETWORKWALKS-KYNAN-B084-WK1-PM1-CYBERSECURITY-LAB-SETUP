@@ -305,8 +305,8 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Kynan Patel**\
-
+**Kynan Patel**
+Cybersecurity Intern | Batch B084  
 LinkedIn: [https://www.linkedin.com/in/kynan-patel-794133423/](https://www.linkedin.com/in/kynan-patel-794133423/)
 
 ---
