@@ -305,10 +305,9 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**Kynan Patel**\
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: [https://www.linkedin.com/in/kynan-patel-794133423/](https://www.linkedin.com/in/kynan-patel-794133423/)
 
 ---
 
